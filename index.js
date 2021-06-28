@@ -1,4 +1,4 @@
-function testResults2(form) {
+function testResults(form) {
     var credits = [20,20,22,22,22]
     var result = 0 ;
     var sum = 0 ; 
@@ -13,7 +13,7 @@ function testResults2(form) {
 }
 
 
-function testResults(form) {
+function testResults2(form) {
     var credits = [20,20,22,22,22]
     var result = 0 ;
     for( var i=0;i<form.inputbox.length;i++){
