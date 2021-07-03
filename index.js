@@ -1,5 +1,5 @@
 function testResults(form) {
-    var credits = [20,20,22,22,22,22,22,20]
+    var credits = [20,20,22,22,22,23,22,20]
     var result = 0 ;
     var sum = 0 ; 
     var total_credits = 0 ;
